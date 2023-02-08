@@ -1,6 +1,6 @@
 {
     "name": "はじめてベースを買う人用拡張機能",
-    "description": "初心者におすすめのベースやケーブルを紹介します。",
+    "description": "楽器通販サイト【デジマート】にて、初心者におすすめのベースやケーブルのみを表示します。",
     "version": "0.1",
     "manifest_version": 3,
     "content_scripts": [
